@@ -1,4 +1,4 @@
-Entrega 2 para curso Javascript - Comisión 64790 - Jaimes Natalia
+<h1>Entrega 2 para curso Javascript - Comisión 64790 - Jaimes Natalia</h1>
 
 Pagina web para presupuestar costos de impresiones 3D.
 Se tienen en consideración datos como: <br>
